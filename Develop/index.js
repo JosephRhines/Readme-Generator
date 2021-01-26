@@ -43,7 +43,7 @@ name: 'questions',
 type: 'list',
 message: 'What license are you using',
 name: 'license',
-choice: ['MIT License', 'GVL GPL License', 'Apache License', 'No License']
+choices: ['MIT License', 'GVL GPL License', 'Apache License', 'No License']
 },
 {
 type: 'input',
@@ -55,8 +55,10 @@ type: 'input',
 message: 'What is your email address',
 name: 'email',
 },
-console.log(inquirer.prompt)
+
 ])
+
+
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
