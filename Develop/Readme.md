@@ -1,4 +1,4 @@
-# Readme Generator
+# Readme-Generator
 
   ## Table of Contents
   * [Description](#Description)
@@ -10,24 +10,24 @@
   * [License](#License)
 
   ## Description
-  An App that generates a readMe file
+  Application that generates a readme file
   ## Installation
-  clone repo from github
+  install node.js and run program from terminal
   ## Usage
-  node index.js
+  type node index.js
   ## Contribution
-  n/a
+  none
   ## Test
-  by using node
+  type node index.js
   ## Questions
-  n/a
+  no
   ## License
   No License
 
   ## Questions
   Contact Information:
   
-  Github: joerhines
+  Github: [JosephRhines](https://github.com/JosephRhines)
   
   Email: jprhines@gmail.com
   
